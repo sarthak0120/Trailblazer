@@ -1,0 +1,14 @@
+IMAGE
+map-custom.jpg
+932
+1024
+
+VERTEXES
+King's Landing;624;682
+Casterly Rock;326;665
+Highgarden;419;819
+
+EDGES
+King's Landing;Casterly Rock;1000
+Casterly Rock;Highgarden;300
+Highgarden;Casterly Rock;300
